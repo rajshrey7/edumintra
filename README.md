@@ -69,7 +69,7 @@ EduMitra transforms your learning with **Google Gemini AI**:
 ### ⚙️ **Installation**
 ```bash
 # 1. Clone the repo
-git clone https://github.com/ayushkumar1991/edumitra.git
+git clone (https://github.com/rajshrey7/edumintra).git
 cd edumitra
 
 # 2. Install dependencies
@@ -83,3 +83,4 @@ GEMINI_API_KEY=your_gemini_api_key
 
 # 4. Run the dev server
 npm run dev
+
